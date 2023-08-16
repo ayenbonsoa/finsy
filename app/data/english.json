@@ -24,9 +24,9 @@
       },
       "users": {
         "headmoji": {
-          "james": "headmoji_url",
-          "jane": "headmoji_url",
-          "jill": "headmoji_url"
+          "james": "/images/userHead/james.svg",
+          "john": "/images/userHead/john.svg",
+          "jill": "/images/userHead/jill.svg"
         },
         "numbers": "15 Million+",
         "comment": "Trusted by million of satisfied users, our financial services have made a real impact on people's lives"

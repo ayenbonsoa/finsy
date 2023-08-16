@@ -7,6 +7,9 @@ const button = cva('px-4 py-2 rounded-full', {
             default:"bg-black text-white",
             primary:"bg-yellow-500 text-black",
             secondary: "bg-transparent text-black"
+        },
+        modifier: {
+            slim: "border"
         }
     },
     defaultVariants: {
@@ -18,9 +21,9 @@ interface ButtonProps extends VariantProps<typeof button>{
     children: React.ReactNode;
 }
 
-export default function Button({children, intent}:ButtonProps) {
+export default function Button({children, intent, modifier}:ButtonProps) {
   return (
-    <button className={button({intent})}>
+    <button className={button({intent, modifier})}>
         {children}
     </button>
   )

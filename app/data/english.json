@@ -1,0 +1,193 @@
+[
+  {
+    "navbar": {
+      "logoLink": "logo_url",
+      "links": {
+        "products": "Products",
+        "company": "Company",
+        "features": "Features",
+        "pricing": "Pricing",
+        "support": "Support"
+      },
+      "actions": {
+        "login": "Login",
+        "newAccount": "Open account"
+      }
+    },
+    "hero": {
+      "hero_illustration": "illustration_url",
+      "hero_headline": "Control your financial future easily",
+      "hero_subline": "From easy money management, to financial goals and investments. Open your account in a flash",
+      "actions": {
+        "open": "Open account",
+        "generate": "Generate your card"
+      },
+      "users": {
+        "headmoji": {
+          "james": "headmoji_url",
+          "jane": "headmoji_url",
+          "jill": "headmoji_url"
+        },
+        "numbers": "15 Million+",
+        "comment": "Trusted by million of satisfied users, our financial services have made a real impact on people's lives"
+      }
+    },
+    "experience": {
+      "headline": "Feel the best experience with our features",
+      "card": {
+        "first": {
+          "icon": "icon_url",
+          "headline": "Custom and design your card, make it unique",
+          "subline": "Create a custom card that reflects your unique style and personality. Choose from a range of colors, patterns, and designs to customize the look of your card.",
+          "illustration": "illustration_url"
+        },
+        "second": {
+          "icon": "icon_url",
+          "headline": "Personalized your financial insights and goals",
+          "subline": "Track your spending patterns, analyze income or expenses easily, and receive personalized recommendations to optimize your financial habits.",
+          "illustration": "illustration_url"
+        },
+        "third": {
+          "icon": "icon_url",
+          "headline": "Free transfer anywhere around the world",
+          "subline": "Experience the freedom of hassle-free money transfers with our free transfer admin finance app. Say goodbye to unnecessary fees and enjoy seamless transactions.",
+          "illustration": "illustration_url"
+        },
+        "fourth": {
+          "icon": "icon_url",
+          "headline": "Hold money in 30+ currencies",
+          "illustration": "illustration_url"
+        },
+        "fifth": {
+          "icon": "icon_url",
+          "headline": "Subscription you control in one place",
+          "illustration": "illustration_url"
+        },
+        "sixth": {
+          "icon": "icon_url",
+          "headline": "Check our other control in one place features",
+          "illustration": "illustration_url",
+          "action": "View More"
+        }
+      }
+    },
+    "company": {
+      "headline": "200+ The fastest growing company use Finsy",
+      "subline": "Many companies have tried using Finsy and they trust the safety of their money",
+      "logo": {
+        "airbnb": "airbnb_url",
+        "slack": "slack_url",
+        "stripe": "stripe_url",
+        "airwallex": "airwallex_url",
+        "spotify": "spotify_url",
+        "booking": "booking_url",
+        "gusto": "gusto_url",
+        "coinbase": "coinbase_url"
+      }
+    },
+    "testimony": {
+      "headline": "Join 15+ million people who already trust us with their money",
+      "testimonials": {
+        "first": {
+          "author": "Ellena Putri",
+          "subline": "Overall, this app has been a life-change for me. It has revolutionized the way I approach my finances, providing me with the tools, insights, and security I need to unlock my financial freedom.",
+          "profile_image": "profile_url"
+        }
+      }
+    },
+    "callToAction": {
+      "headline": "Get the Finsy mobile app.",
+      "subline": "With this platform, you can access your account anywhere, anytime for balance and so much more.",
+      "action": {
+        "label": "Download Now",
+        "illustration": "illustration_url",
+        "android": {
+          "icon": "android_icon"
+        },
+        "apple": {
+          "icon": "apple_icon"
+        }
+      },
+      "footline": "Save smart. Achieve more."
+    },
+    "footer": {
+      "newsletter": {
+        "icon": "icon_url",
+        "headline": "Keep up with the latest",
+        "subline": "Join our newsletter to stay up to date on features and releases.",
+        "form": {
+          "label": "Stay up to date",
+          "placeholder": "Enter your email",
+          "note": "By subscribing, you agree with our",
+          "privacy": "Privacy policy",
+          "action": {
+            "subscribe": "Subscribe"
+          }
+        },
+        "links": {
+          "logo": "logo_url",
+          "motto": "Make your complicated finance more simple.",
+          "category": {
+            "first": {
+              "label": "Finsy",
+              "payement": "Payment",
+              "card": "Card",
+              "pricing": "Pricing"
+            },
+            "second": {
+              "label": "Products",
+              "personal": "Personal",
+              "business": "Business",
+              "invoice": "Invoice"
+            },
+            "third": {
+              "label": "Company",
+              "about": "About",
+              "careers": "Careers",
+              "press": "Press Kit"
+            },
+            "fourth": {
+              "label": "Developer",
+              "api": "API Documentation",
+              "guide": "Guide",
+              "changelog": "ChangeLog"
+            },
+            "fifth": {
+              "label": "Support",
+              "help": "Help",
+              "faq": "FAQ",
+              "contact": "Contact"
+            },
+            "sixth": {
+              "label": "Legal",
+              "privacy": "Privacy Policy",
+              "terms": "Terms of Service",
+              "cookies": "Cookies"
+            }
+          },
+          "subfooter": {
+            "copyright": "© 2023 Finsy, All rights reserved",
+            "social": {
+              "instagram": {
+                "icon": "icon_url",
+                "link": "url_link"
+              },
+              "facebook": {
+                "icon": "icon_url",
+                "link": "url_link"
+              },
+              "twitter": {
+                "icon": "icon_url",
+                "link": "url_link"
+              },
+              "linkedin": {
+                "icon": "icon_url",
+                "link": "url_link"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+]
